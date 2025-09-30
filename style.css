@@ -39,7 +39,7 @@ nav {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.styled-image:hover {
-    transform: scale(1.03);
-    box-shadow: 0 12px 20px black;
+.styled-image {
+    margin: 20px auto;
+    max-width: 80%;
 }
